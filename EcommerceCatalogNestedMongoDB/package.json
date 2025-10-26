@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-nested-documents",
+  "version": "1.0.0",
+  "description": "E-commerce catalog with nested documents using MongoDB and Mongoose",
+  "main": "ecommerce.js",
+  "scripts": {
+    "start": "node ecommerce.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.6.0"
+  }
+}
